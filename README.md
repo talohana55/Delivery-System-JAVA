@@ -28,3 +28,6 @@ Sort Center writes to file to update package status(prevention of race condition
 * Using the JAVA GUI view
 * Buttons to select
 * Displays a simulation of the system operation from the beginning of the operation until all packages are shipped.
+
+
+![ללא שם](https://user-images.githubusercontent.com/68163421/124388161-48657a00-dcea-11eb-8277-7d2235a52fab.png)
