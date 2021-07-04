@@ -12,9 +12,9 @@ Customers track packages using a tracking.txt file
 
 ## Multi-Threads
 The system was built in a multi-process environment, the system works synchronously between all the objects.
-Thread-Pool - limited customer creation to 2 at the same time until the end of their operation.
-Observer / Listeners- Each branch monitors its vans that report status on each change of condition.
-PropertyChangeListener - Each branch reports to a sorting center about a package that needs to be collected.
+###Thread-Pool - limited customer creation to 2 at the same time until the end of their operation.
+###Observer / Listeners- Each branch monitors its vans that report status on each change of condition.
+###PropertyChangeListener - Each branch reports to a sorting center about a package that needs to be collected.
 Read/Write Lock - Any customer at the time can read from a file to check package status,
 Sort Center writes to file to update package status(prevention of race condition).
 
