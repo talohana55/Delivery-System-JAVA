@@ -21,7 +21,7 @@ Sort Center writes to file to update package status(prevention of race condition
 ## Design Patterns
 * __Prototype__ - The system can expand and replicate a new, independent branch on top of another prototype branch.
 * __Singletone__ - A main office object is created only once, initialized in a voletile variable and has a private constructor.
- ** Using the principle - Double-Check-Locking.
+  * Using the principle - Double-Check-Locking.
 * __Memento__ - The system can be restored to a specific point in time after branch duplication(clone option).
 
 ## GUI - System View
