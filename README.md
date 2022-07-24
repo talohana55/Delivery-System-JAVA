@@ -28,11 +28,12 @@ Sort Center writes to file to update package status(prevention of race condition
 * Using the JAVA GUI view
 * Buttons to select
 * Displays a simulation of the system operation from the beginning of the operation until all packages are shipped.
+## Acknowledgements
+This was part of my advanced object oriented programming course, and as such I must thank my lecturer Dr. Marina Litvak
+## Status
+No longer being worked on. This was an exercise in getting familiar with Java's design patterns and multithreading, as well as the UI elements available without the need of 3rd party software. As such, I plan on taking my conclusions and applying them to bigger and better projects later on.
 
 
 ![ללא שם](https://user-images.githubusercontent.com/68163421/124388161-48657a00-dcea-11eb-8277-7d2235a52fab.png)
 
-#Acknowledgements
-This was part of my advanced object oriented programming course, and as such I must thank my lecturer Dr. Marina Litvak
-##Status
-No longer being worked on. This was an exercise in getting familiar with Java's design patterns and multithreading, as well as the UI elements available without the need of 3rd party software. As such, I plan on taking my conclusions and applying them to bigger and better projects later on.
+
